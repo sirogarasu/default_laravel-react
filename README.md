@@ -1,1 +1,2 @@
 # default_laravel-react
+自分にとってのテンプレートなので使いたかったらどうぞ
